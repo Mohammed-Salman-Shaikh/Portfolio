@@ -12,8 +12,8 @@ function AboutCard() {
             from <span className="purple"> Bangalore, India.</span>
             <br /> I am a graduate in Computer Engineering (Data Science) from Presidency University, Bangalore.
             <br />
-            {/* Additionally, I am currently employed as a software developer at
-            Juspay. */}
+            Additionally, I am currently employed as a Software Developer at
+            Capgemini
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
